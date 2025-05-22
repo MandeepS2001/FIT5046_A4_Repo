@@ -1,0 +1,28 @@
+# Android specific
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Large files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar
+*.gz
+
+# IDE specific
+.idea/
+*.iml
+.gradle/
+local.properties
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/ 
