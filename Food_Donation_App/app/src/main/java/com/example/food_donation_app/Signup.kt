@@ -1,3 +1,5 @@
+//fixed map
+
 package com.example.food_donation_app
 
 import android.app.DatePickerDialog
